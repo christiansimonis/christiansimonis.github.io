@@ -1,0 +1,142 @@
+# Thanks and credits to: https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
+
+# Site
+#repository: christiansimonis/christiansimonis.github.io
+# favicon: images/favicon.ico
+
+# Config
+version: 2
+
+# Personal info
+name: Christian Simonis
+title: Senior Project Manager @ Bosch | DeepLearning.AI Mentor #| Thought Leader @ Global AI Hub
+#website: https://www.linkedin.com/in/christiansimonis/
+
+# Dark Mode (true/false/never)
+darkmode: true
+
+# Social links
+github_username:  christiansimonis
+linkedin_username: christiansimonis
+
+
+# Additional icon links
+additional_links:
+- title: Talk about Data, AI and Battery Analytics 
+  icon: fas fa-globe
+  url: https://media.video.bosch.com/media/t/0_dmo3xtn7/57
+
+
+# About Section
+about_profile_image: images/profile.jpg
+about_content: | # this will include new lines to allow paragraphs
+  
+  I am passionate about technologies that add value to business and society.
+  Winner of the Bosch Inventor Award for the invention and development of a physics-informed machine learning system that performs cloud-based battery analytics.
+  Academic training in Automotive Engineering and Business Administration with a proven track record of leading large teams and developing, launching and managing highly scalable Digital Twin and AI solutions.
+
+content:
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: How to Enable Transparency for Electric Vehicle Batteries
+        link: https://www.linkedin.com/pulse/how-enable-transparency-electric-vehicle-batteries-christian-simonis/
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-linkedin
+            url: https://www.linkedin.com/pulse/how-enable-transparency-electric-vehicle-batteries-christian-simonis/
+        quote: >
+          This is an article about hybrid model techniques in the context of battery state estimation and prediction, using physics-informed AI.
+        description: | # this will include new lines to allow paragraphs
+          Published in 2021. More information on modeling techniques can be found [here](https://media.video.bosch.com/media/t/0_dmo3xtn7).
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Talk on Battery in the Cloud
+        link: https://media.video.bosch.com/media/t/0_dmo3xtn7
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fa fa-globe
+            url: https://media.video.bosch.com/media/t/0_dmo3xtn7 
+        quote: >
+          This is a talk about Data, AI and Battery Analytics.
+        description: | # this will include new lines to allow paragraphs
+          Published in 2020. More information on the overall solution can be found [here](https://www.youtube.com/watch?v=rqpm8bORgqA).
+  - title:  # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Model-based Systems Engineering
+        link: https://www.youtube.com/watch?v=fR-aqclBcok
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-youtube
+            url: https://www.youtube.com/watch?v=fR-aqclBcok
+        quote: >
+          This is a video about Model-based Systems Engineering (MBSE).
+        description: | # this will include new lines to allow paragraphs
+          Published in 2019. More information on the underlying case study can be found [here](https://www.3ds.com/assets/invest/2020-03/bosch-car-multimedia-case-study-2019.pdf).
+  - title:   # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: On Model-based Source Coding for Dynamical Systems
+        link: https://ieeexplore.ieee.org/document/8022813
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fa fa-globe
+            url: https://ieeexplore.ieee.org/document/8022813
+        quote: >
+          This is a paper about Markov chains, aiming to minimize the expected codeword length of transmitted information by accounting for process dynamics.
+        description: | # this will include new lines to allow paragraphs
+          Published in 2017 3rd International Conference on Event-Based Control, Communication and Signal Processing (EBCCSP).
+  - title:   # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: List of Patent Applications
+        link: https://patents.google.com/?inventor=Christian+Simonis
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-google
+            url: https://patents.google.com/?inventor=Christian+Simonis
+        quote: >
+          This is a list of published patent applications, mainly with a focus on Automotive IoT applications, Anomaly Detection, Battery Analytics, Digital Twin applications, Electric Powertrain, Physics-informed AI and Predictive Diagnostics.
+        description: | # this will include new lines to allow paragraphs
+          More information on invention analytics can be found [here](https://www.patbase.com/inventorSnapshot/public/?inventor=SIMONIS%20CHRISTIAN).
+  - title:   # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: List of Repositories
+        link: https://github.com/christiansimonis?tab=repositories
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: https://github.com/christiansimonis?tab=repositories
+        quote: >
+          This is a list of published repositories in Github.
+        description: | # this will include new lines to allow paragraphs
+          The focus of the published code is mainly on time series analysis, probabilistic modeling and the CRISP-DM methodology.
+
+# Footer
+footer_show_references: true
+references_title: References on request 
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
