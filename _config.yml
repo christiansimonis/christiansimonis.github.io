@@ -48,7 +48,7 @@ content:
             icon: fab fa-linkedin
             url: https://www.linkedin.com/pulse/how-enable-transparency-electric-vehicle-batteries-christian-simonis/
         quote: >
-          This is an article about hybrid model techniques in the context of battery state estimation and prediction, using physics-informed AI.
+          This is an article about hybrid modeling techniques in the context of battery state estimation and prediction, using physics-informed AI.
         description: | # this will include new lines to allow paragraphs
           Published in 2021. More information on modeling techniques can be found [here](https://media.video.bosch.com/media/t/0_dmo3xtn7).
   - title:  # Title for the section
@@ -126,6 +126,21 @@ content:
           This is a list of published repositories in Github.
         description: | # this will include new lines to allow paragraphs
           The focus of the published code is mainly on time series analysis, probabilistic modeling and the CRISP-DM methodology.
+  - title:   # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Google Colab Notebook
+        link: https://colab.research.google.com/drive/1hm62KGGqsPgkXsSk4rl-ZG4N9hlxrzpb
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-google
+            url: https://colab.research.google.com/drive/1hm62KGGqsPgkXsSk4rl-ZG4N9hlxrzpb
+        quote: >
+          This is a notebook, published on Google Colab.
+        description: | # this will include new lines to allow paragraphs
+          With this notebook, you can run <mark>Python</mark> scripts in your browser to become familiar with CRISP-DM methodology, Data Science, and Machine Learning.
 
 # Footer
 footer_show_references: true
