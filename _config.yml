@@ -1,8 +1,7 @@
 # Thanks and credits to: https://github.com/sproogen/modern-resume-theme/blob/master/_config.yml
 
 # Site
-#repository: christiansimonis/christiansimonis.github.io
-# favicon: images/favicon.ico
+# repository: christiansimonis/christiansimonis.github.io
 
 # Config
 version: 2
@@ -39,10 +38,18 @@ about_content: | # this will include new lines to allow paragraphs
   
   Academic training in Automotive Engineering and Business Administration with a proven track record of leading large teams and developing, launching and managing highly scalable Digital Twin and AI solutions.
   
-   Volunteer experience Artificial Intelligence:
-  - [recognized with Top Mentor Award from DeepLearning.AI](https://media.licdn.com/dms/image/C4E2DAQHDqaSYZGTlew/profile-treasury-image-shrink_800_800/0/1672951654104?e=1673647200&v=beta&t=cjHbR9U9jo5COOmHCjH2gNjJVTOQtzDV6HfnkPS4K5Q)
-  - [recognized as Top 50 AI Thought Leader by Global AI Hub](https://globalaihub.com/top-50-thought-leaders-to-influence-your-mind/)
-  - [Linkedin Thought Leadership](https://www.linkedin.com/feed/update/urn:li:activity:6922552885666795520/)
+ 
+  Volunteer experience Artificial Intelligence:
+
+  <img src="https://raw.githubusercontent.com/christiansimonis/christiansimonis.github.io/master/images/DL.png"  width="320" >
+  
+  - [received the Top Mentor Award from DeepLearning.AI](https://raw.githubusercontent.com/christiansimonis/christiansimonis.github.io/master/images/DL.png)
+ 
+  <img src="https://raw.githubusercontent.com/christiansimonis/christiansimonis.github.io/master/images/Global_AI_Hub.jpeg"  width="320" >
+
+  - [recognized as a Top 50 AI Thought Leader by Global AI Hub](https://globalaihub.com/top-50-thought-leaders-to-influence-your-mind/)
+  - [Thought Leadership on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6922552885666795520/)
+
 content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
