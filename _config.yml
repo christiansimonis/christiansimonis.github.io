@@ -49,8 +49,24 @@ about_content: | # this will include new lines to allow paragraphs
   - [recognized as a Top 50 AI Thought Leader by Global AI Hub](https://globalaihub.com/top-50-thought-leaders-to-influence-your-mind/)
   - [Thought Leadership on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6922552885666795520/)
 
+
 content:
   - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Mastering Classic Machine Learning - A comprehensive guide through CRISP-DM
+        link: https://www.linkedin.com/pulse/mastering-classic-machine-learning-comprehensive-guide-simonis/
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-linkedin
+            url: https://www.linkedin.com/pulse/mastering-classic-machine-learning-comprehensive-guide-simonis/
+        quote: >
+          This is an article about classic Machine Learning techniques, supported with methods, tools and visualizations.
+        description: | # this will include new lines to allow paragraphs
+          Published in 2023. The source code can be found [here](https://github.com/christiansimonis/CRISP-DM-AI-tutorial/blob/master/Classic_ML.ipynb).
+  - title:  # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
