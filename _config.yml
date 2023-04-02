@@ -171,6 +171,21 @@ content:
           This is a notebook, published on Google Colab.
         description: | # this will include new lines to allow paragraphs
           With this notebook, you can run <mark>Python</mark> scripts in your browser to become familiar with CRISP-DM methodology, Data Science, and Machine Learning.
+  - title:   # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Google Scholar Articles
+        link: https://scholar.google.com/citations?hl=en&user=smkpx6EAAAAJ
+        # link_text: Project Website
+        additional_links:
+          - title:  sproogen/modern-resume-theme
+            icon: fab fa-google
+            url: https://scholar.google.com/citations?hl=en&user=smkpx6EAAAAJ
+        quote: >
+          Published articles, listed on Google Colab.
+        description: | # this will include new lines to allow paragraphs
+          The focus of the published articles is mainly on time series analysis, probabilistic modeling and automotive engineering.
 
 # Footer
 footer_show_references: true
