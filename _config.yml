@@ -183,7 +183,7 @@ content:
             icon: fab fa-google
             url: https://scholar.google.com/citations?hl=en&user=smkpx6EAAAAJ
         quote: >
-          Published articles, listed on Google Colab.
+          Published articles, listed on Google Scholar.
         description: | # this will include new lines to allow paragraphs
           The focus of the published articles is mainly on time series analysis, probabilistic modeling and automotive engineering.
 
