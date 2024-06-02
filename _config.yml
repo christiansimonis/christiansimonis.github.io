@@ -49,6 +49,9 @@ about_content: | # this will include new lines to allow paragraphs
   - [recognized as a Top 50 AI Thought Leader by Global AI Hub](https://globalaihub.com/top-50-thought-leaders-to-influence-your-mind/)
   - [Thought Leadership on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6922552885666795520/)
 
+  Certified Project Management Professional:
+  <img src="https://raw.githubusercontent.com/christiansimonis/christiansimonis.github.io/master/images/pmp.png"  width="320" >
+  
 
 content:
   - title: Publications # Title for the section
@@ -185,7 +188,7 @@ content:
         quote: >
           Published articles, listed on Google Scholar.
         description: | # this will include new lines to allow paragraphs
-          The focus of the published articles is mainly on time series analysis, probabilistic modeling and automotive engineering.
+          The focus of the published articles is mainly on Data, AI, probabilistic modeling and automotive engineering.
 
 # Footer
 footer_show_references: true
