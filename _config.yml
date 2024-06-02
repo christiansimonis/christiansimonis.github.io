@@ -9,7 +9,7 @@ version: 2
 # Personal info
 name: Christian Simonis
 title: Senior Project Manager @ Bosch | DeepLearning.AI Mentor | recognized as a TOP 50 AI Thought Leader by Global AI Hub
-website: https://www.linkedin.com/in/christiansimonis/
+#website: https://www.linkedin.com/in/christiansimonis/
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -19,11 +19,11 @@ github_username:  christiansimonis
 linkedin_username: christiansimonis
 
 
-# Additional icon links
-additional_links:
-- title: Talk about Data, AI and Battery Analytics 
-  icon: fas fa-globe
-  url: https://media.video.bosch.com/media/t/0_dmo3xtn7/57
+## Additional icon links
+#additional_links:
+#- title: Talk about Data, AI and Battery Analytics 
+#  icon: fas fa-globe
+#  url: https://media.video.bosch.com/media/t/0_dmo3xtn7/57
 
 
 # About Section
@@ -31,8 +31,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   
   I am passionate about technologies that add value to business and society.
-
-  Academic training in Automotive Engineering and Business Administration with a proven track record of leading large teams and developing, launching and managing highly scalable Digital Twin and AI solutions.
+  
+  Academic training in Automotive Engineering and Business Administration. Certified Project Management Professional (PMP) with a proven track record of leading large teams and developing, launching and managing highly scalable Digital Twin and AI solutions as well as implementing Enterprise Data Excellence. 
   
   Winner of the Bosch Inventor Award for the invention and development of a physics-informed machine learning system that performs cloud-based battery analytics.
   
@@ -50,9 +50,12 @@ about_content: | # this will include new lines to allow paragraphs
   - [Thought Leadership on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:6922552885666795520/)
 
   Certified Project Management Professional:
-  
+
   <img src="https://raw.githubusercontent.com/christiansimonis/christiansimonis.github.io/master/images/pmp.png"  width="320" >
   
+   - [PMI Certificate](https://www.credly.com/badges/dacf3578-4d0e-4dae-9a8a-978e3d826440/public_url)
+
+
 
 content:
   - title: Publications # Title for the section
