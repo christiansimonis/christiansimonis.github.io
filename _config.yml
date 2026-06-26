@@ -30,7 +30,7 @@ linkedin_username: christiansimonis
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   
-  I am passionate about technologies that add‚‚ value to business and society.
+  I am passionate about technologies that add value to business and society.
   
   Academic training in Automotive Engineering and Business Administration. Certified Project Management Professional (PMP) with a proven track record of leading large teams and developing, launching and managing highly scalable Digital Twin and AI solutions as well as implementing Enterprise Data Excellence. 
   
@@ -132,7 +132,7 @@ content:
         quote: >
           This is a video about Model-based Systems Engineering (MBSE).
         description: | # this will include new lines to allow paragraphs
-          Published in 2019. More information on the underlying case study can be found [here](https://www.3ds.com/assets/invest/2020-03/bosch-car-multimedia-case-study-2019.pdf).
+          Published in 2019. More information on the underlying case study can be found [here](https://www.3ds.com/assets/invest/2020-03/3DS_2019_CORP_CaseStudy_BOSCH_DS_A4_GR_HD.pdf).
   - title:   # Title for the section
     layout: list # Type of content section (list/text)
     content:
